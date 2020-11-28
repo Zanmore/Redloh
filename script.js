@@ -24,4 +24,4 @@ function repo() {
     };
     xhttp.open("GET", "https://api.github.com/users/Zanmore/repos", true);
     xhttp.send();
-}
+} repo();
